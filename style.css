@@ -1,0 +1,12 @@
+.container{
+    background-color: aqua;
+    color: brown;
+}
+
+.container2{
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.text{
+    font-size: 1.5rem;
+}
